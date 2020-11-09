@@ -1,2 +1,2 @@
 both
-this is only in branch different
+this is only in the branch different
